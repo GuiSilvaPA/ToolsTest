@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas    as pd
 
-from DelayComp import *
+# from DelayComp import *
 from io import StringIO
 
 import pickle, base64
