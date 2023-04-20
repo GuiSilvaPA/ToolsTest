@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas    as pd
 
-from __init__ import *
+from .__init__ import *
 from io import StringIO
 
 import pickle, base64
